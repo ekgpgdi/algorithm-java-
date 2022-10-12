@@ -5,7 +5,12 @@ public class 합성수_찾기 {
         int answer = 0;
 
         for (int i = 4; i <= n; i++) {
-
+            for (int j = 2; j <= i - 1; j++) {
+                if (i % j == 0) {
+                    answer += 1;
+                    break;
+                }
+            }
         }
         return answer;
     }
