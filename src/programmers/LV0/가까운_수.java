@@ -7,10 +7,10 @@ public class 가까운_수 {
 
         for (int i = 1; i < array.length; i++) {
 
-            if((array[i] > n ? array[i] - n : n - array[i]) < diff) {
+            if ((array[i] > n ? array[i] - n : n - array[i]) < diff) {
                 diff = array[i] > n ? array[i] - n : n - array[i];
                 answer = i;
-            } else if ((array[i] > n ? array[i] - n : n - array[i])  == diff) {
+            } else if ((array[i] > n ? array[i] - n : n - array[i]) == diff) {
                 answer = array[i] < array[answer] ? i : answer;
             }
         }
