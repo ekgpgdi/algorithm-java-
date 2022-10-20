@@ -106,6 +106,22 @@
 [칠의_개수.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%B9%A0%EC%9D%98_%EA%B0%9C%EC%88%98.java) <br/>
 
 ### 📌 ㅋ
+[캐릭터의_좌표.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%BA%90%EB%A6%AD%ED%84%B0%EC%9D%98_%EC%A2%8C%ED%91%9C.java) <br/>
+[컨트롤_제트.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%BB%A8%ED%8A%B8%EB%A1%A4_%EC%A0%9C%ED%8A%B8.java) <br/>
 
+### 📌 ㅌ
+[특이한_정렬.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%ED%8A%B9%EC%9D%B4%ED%95%9C_%EC%A0%95%EB%A0%AC.java) <br/>
+[특정_문자_제거하기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%ED%8A%B9%EC%A0%95_%EB%AC%B8%EC%9E%90_%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.java) <br/>
+
+### 📌 ㅍ
+[팩토리얼.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC.java) <br/>
+[편지.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%ED%8E%B8%EC%A7%80.java) <br/>
+[피자_나눠_먹기_1.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%ED%94%BC%EC%9E%90_%EB%82%98%EB%88%A0_%EB%A8%B9%EA%B8%B0_1.java) <br/>
+[피자_나눠_먹기_2.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%ED%94%BC%EC%9E%90_%EB%82%98%EB%88%A0_%EB%A8%B9%EA%B8%B0_2.java) <br/>
+[피자_나눠_먹기_3.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%ED%94%BC%EC%9E%90_%EB%82%98%EB%88%A0_%EB%A8%B9%EA%B8%B0_3.java) <br/>
+
+### 📌 ㅎ
+[한_번만_등장한_문자.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%ED%95%9C_%EB%B2%88%EB%A7%8C_%EB%93%B1%EC%9E%A5%ED%95%9C_%EB%AC%B8%EC%9E%90.java) <br/>
+[합성수_찾기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%ED%95%A9%EC%84%B1%EC%88%98_%EC%B0%BE%EA%B8%B0.java) <br/>
 
 
