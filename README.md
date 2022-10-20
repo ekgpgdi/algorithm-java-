@@ -43,3 +43,69 @@
 [문자열_정렬하기_1.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_1.java) <br/>
 [문자열_정렬하기_2.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EB%AC%B8%EC%9E%90%EC%97%B4_%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_2.java) <br/>
 [문자열안에_문자열.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%88%EC%97%90_%EB%AC%B8%EC%9E%90%EC%97%B4.java) <br/>
+
+### 📌 ㅂ
+[배열_두배_만들기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EB%B0%B0%EC%97%B4_%EB%91%90%EB%B0%B0_%EB%A7%8C%EB%93%A4%EA%B8%B0.java)  <br/>
+[배열_뒤집기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EB%B0%B0%EC%97%B4_%EB%92%A4%EC%A7%91%EA%B8%B0.java)  <br/>
+[배열_원소의_길이.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EB%B0%B0%EC%97%B4_%EC%9B%90%EC%86%8C%EC%9D%98_%EA%B8%B8%EC%9D%B4.java)  <br/>
+[배열_자르기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EB%B0%B0%EC%97%B4_%EC%9E%90%EB%A5%B4%EA%B8%B0.java)  <br/>
+[배열_회전시키기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EB%B0%B0%EC%97%B4_%ED%9A%8C%EC%A0%84%EC%8B%9C%ED%82%A4%EA%B8%B0.java) <br/>
+[배열의_유사도.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EB%B0%B0%EC%97%B4%EC%9D%98_%EC%9C%A0%EC%82%AC%EB%8F%84.java) <br/>
+[배열의_평균값.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EB%B0%B0%EC%97%B4%EC%9D%98_%ED%8F%89%EA%B7%A0%EA%B0%92.java) <br/>
+[분수의_덧셈.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EB%B6%84%EC%88%98%EC%9D%98_%EB%8D%A7%EC%85%88.java) <br/>
+
+### 📌 ㅅ
+[삼각형의_완성조건_1.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98_%EC%99%84%EC%84%B1%EC%A1%B0%EA%B1%B4_1.java) <br/>
+[삼각형의_완성조건_2.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98_%EC%99%84%EC%84%B1%EC%A1%B0%EA%B1%B4_2.java) <br/>
+[삼육구게임.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%82%BC%EC%9C%A1%EA%B5%AC%EA%B2%8C%EC%9E%84.java) <br/>
+[세균_증식.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%84%B8%EA%B7%A0_%EC%A6%9D%EC%8B%9D.java) <br/>
+[소인수분해.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4.java) <br/>
+[순서쌍의_개수.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%88%9C%EC%84%9C%EC%8C%8D%EC%9D%98_%EA%B0%9C%EC%88%98.java) <br/>
+[숨어있는_숫자의_덧셈_1.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94_%EC%88%AB%EC%9E%90%EC%9D%98_%EB%8D%A7%EC%85%88_1.java) <br/>
+[숨어있는_숫자의_덧셈_2.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94_%EC%88%AB%EC%9E%90%EC%9D%98_%EB%8D%A7%EC%85%88_2.java) <br/>
+[숫자_비교하기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%88%AB%EC%9E%90_%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.java) <br/>
+[숫자_찾기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%88%AB%EC%9E%90_%EC%B0%BE%EA%B8%B0.java) <br/>
+
+### 📌 ㅇ
+[아이스_아메리카노.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%95%84%EC%9D%B4%EC%8A%A4_%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8.java)<br/>
+[암호_해독.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%95%94%ED%98%B8_%ED%95%B4%EB%8F%85.java)<br/>
+[약수_구하기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%95%BD%EC%88%98_%EA%B5%AC%ED%95%98%EA%B8%B0.java)<br/>
+[양꼬치.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%96%91%EA%BC%AC%EC%B9%98.java)<br/>
+[영어가_싫어요.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%98%81%EC%96%B4%EA%B0%80_%EC%8B%AB%EC%96%B4%EC%9A%94.java)<br/>
+[옷가게_할인_받기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%98%B7%EA%B0%80%EA%B2%8C_%ED%95%A0%EC%9D%B8_%EB%B0%9B%EA%B8%B0.java)<br/>
+[외계어_사전.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%99%B8%EA%B3%84%EC%96%B4_%EC%82%AC%EC%A0%84.java)<br/>
+[외계행성의_나이.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%99%B8%EA%B3%84%ED%96%89%EC%84%B1%EC%9D%98_%EB%82%98%EC%9D%B4.java)<br/>
+[유한소수_판별하기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%9C%A0%ED%95%9C%EC%86%8C%EC%88%98_%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0.java)<br/>
+[이진수_더하기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%9D%B4%EC%A7%84%EC%88%98_%EB%8D%94%ED%95%98%EA%B8%B0.java)<br/>
+[이차원으로_만들기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%9D%B4%EC%B0%A8%EC%9B%90%EC%9C%BC%EB%A1%9C_%EB%A7%8C%EB%93%A4%EA%B8%B0.java)<br/>
+[인덱스_바꾸기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%9D%B8%EB%8D%B1%EC%8A%A4_%EB%B0%94%EA%BE%B8%EA%B8%B0.java)<br/>
+
+### 📌 ㅈ
+[자릿수_더하기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%9E%90%EB%A6%BF%EC%88%98_%EB%8D%94%ED%95%98%EA%B8%B0.java)<br/>
+[잘라서_배열로_저장하기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%9E%98%EB%9D%BC%EC%84%9C_%EB%B0%B0%EC%97%B4%EB%A1%9C_%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0.java)<br/>
+[점의_위치_구하기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%A0%90%EC%9D%98_%EC%9C%84%EC%B9%98_%EA%B5%AC%ED%95%98%EA%B8%B0.java)<br/>
+[제곱수_판별하기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%A0%9C%EA%B3%B1%EC%88%98_%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0.java)<br/>
+[종이_자르기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%A2%85%EC%9D%B4_%EC%9E%90%EB%A5%B4%EA%B8%B0.java)<br/>
+[주사위의_개수.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%A3%BC%EC%82%AC%EC%9C%84%EC%9D%98_%EA%B0%9C%EC%88%98.java)<br/>
+[중복된_문자_제거.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%A4%91%EB%B3%B5%EB%90%9C_%EB%AC%B8%EC%9E%90_%EC%A0%9C%EA%B1%B0.java)<br/>
+[중복된_숫자_개수.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%A4%91%EB%B3%B5%EB%90%9C_%EC%88%AB%EC%9E%90_%EA%B0%9C%EC%88%98.java)<br/>
+[중앙값_구하기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%A4%91%EC%95%99%EA%B0%92_%EA%B5%AC%ED%95%98%EA%B8%B0.java)<br/>
+[직각삼각형_출력하기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.java)<br/>
+[직사각형_넓이_구하기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95_%EB%84%93%EC%9D%B4_%EA%B5%AC%ED%95%98%EA%B8%B0.java)<br/>
+[진료_순서_정하기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%A7%84%EB%A3%8C_%EC%88%9C%EC%84%9C_%EC%A0%95%ED%95%98%EA%B8%B0.java)<br/>
+
+### 📌 ㅉ
+[짝수_홀수_개수.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%A7%9D%EC%88%98_%ED%99%80%EC%88%98_%EA%B0%9C%EC%88%98.java) <br/>
+[짝수는_싫어요.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%A7%9D%EC%88%98%EB%8A%94_%EC%8B%AB%EC%96%B4%EC%9A%94.java) <br/>
+[짝수의_합.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%A7%9D%EC%88%98%EC%9D%98_%ED%95%A9.java) <br/>
+
+### 📌 ㅊ
+[최댓값_만들기_1.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%B5%9C%EB%8C%93%EA%B0%92_%EB%A7%8C%EB%93%A4%EA%B8%B0_1.java) <br/>
+[최댓값_만들기_2.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%B5%9C%EB%8C%93%EA%B0%92_%EB%A7%8C%EB%93%A4%EA%B8%B0_2.java) <br/>
+[최빈값_구하기.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%B5%9C%EB%B9%88%EA%B0%92_%EA%B5%AC%ED%95%98%EA%B8%B0.java) <br/>
+[칠의_개수.java](https://github.com/ekgpgdi/algorithm-java-/blob/master/src/programmers/LV0/%EC%B9%A0%EC%9D%98_%EA%B0%9C%EC%88%98.java) <br/>
+
+### 📌 ㅋ
+
+
+
